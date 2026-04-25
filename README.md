@@ -5,13 +5,13 @@
 
 ---
 
-## 📌 Description
+Description
 
 This is a Spring Boot project that creates a **Product API** with full CRUD operations (Create, Read, Update, Delete).
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Open project in your IDE
 2. Run:
@@ -28,7 +28,7 @@ http://localhost:8080/swagger-ui.html
 
 ---
 
-## 📡 Endpoints
+Endpoints
 
 | Method | URL                   |
 | ------ | --------------------- |
@@ -38,16 +38,12 @@ http://localhost:8080/swagger-ui.html
 | PUT    | /api/v1/products/{id} |
 | DELETE | /api/v1/products/{id} |
 
----
 
-## 🧪 Run Tests
+
+Run Tests
 
 ```bash
 mvn test
-```
 
----
-
-## 👨‍💻 Author
 
 Yosef Ahmedin
